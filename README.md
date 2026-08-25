@@ -12,6 +12,6 @@ Market Intelligence Analyst by day, builder on the side 🛠️
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joel612&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Joel612&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joel612&layout=compact&theme=tokyonight" height="165"/>
 </p>
